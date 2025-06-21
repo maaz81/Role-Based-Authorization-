@@ -24,18 +24,20 @@ This project implements a secure user authentication and **role-based authorizat
 ---
 ## 🧪 Getting Started
 
-### 1. Clone the Repository
+### 1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/maaz81/Role-Based-Authorization.git
 cd Role-Based-Authorization
 ```
 
-### 2. Install Dependencies
+### 2. **Install Dependencies**
 
--**npm install**
+```
+npm install
+```
 
-### 3. Set Up Environment Variables
+### 3. **Set Up Environment Variables**
 
 -**Create a .env file in the root directory and add the following values:
 ```bash
@@ -44,8 +46,13 @@ JWT_SECRET=my-secret-key
 CONNECTION_STRING=mongodb://localhost:27017/Role_Auth
 ```
 
-### 4. Run the Server
+### 4. **Run the Server**
 
--**npm start**
+```
+npm start
+```
+
 or
--**npm run dev**
+```
+npm run dev
+```
