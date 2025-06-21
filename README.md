@@ -33,7 +33,7 @@ cd Role-Based-Authorization
 
 ### 2. Install Dependencies
 
--**npm install
+-**npm install**
 
 ### 3. Set Up Environment Variables
 
@@ -46,6 +46,6 @@ CONNECTION_STRING=mongodb://localhost:27017/Role_Auth
 
 ### 4. Run the Server
 
--**npm start
+-**npm start**
 or
--**npm run dev
+-**npm run dev**
